@@ -109,8 +109,7 @@
     - to: [237.8125, -2275.0625]
     - to: [199.3125, -2263.6875]
     - to: [173.8125, -2272.6875]
-- At the end of the blue nightshade path, advance a bit in to the open space to the
-  right.:
+- - At the end of the blue nightshade path, advance a bit in to the open space to the right.:
     coord: [166.75, -2292.5625]
 - To the right will be a tree with a honey comb on it. Proceed in that direction.:
     coord: [178.41, 287.95, -2310.8]
